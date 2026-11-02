@@ -1,4 +1,4 @@
-# Zomato_Profitability_Analysis
+# Zomato Profitability Analysis
 
 The project focuses on enhancing Zomato's profitability through the analysis of a dataset containing over 1000 restaurants, which are categorized differently. The project team has utilized their analytical skills and expertise to identify potential avenues for Zomato to generate more profit.
 
